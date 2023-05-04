@@ -21,3 +21,9 @@ Keep in mind, we can add additional features too, but they would need to be aggr
 Recency: How recent is a buyer, when was the last purchase before the end of training period
 Frequency: How many purchases a customer made during the training period
 Monetary: Mean and Sum of spend during the training period
+
+## Machine Learning Process using XGBoost
+XGBoost is a machine learning algorithm that uses an ensemble of decision trees and gradient boosting to make predictions. It is widely used in data science and has won several machine learning competitions.
+It is a versatile algorithm that can be used for both classification and regression problems. It can handle different types of data and can be customized for specific needs.
+
+## Conclusions
